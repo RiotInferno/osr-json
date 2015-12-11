@@ -1,0 +1,880 @@
+{
+"table1":[
+   {
+      "result": "Geomorph I",
+      "weight": 1
+   },
+   {
+      "result": "Geomorph II",
+      "weight": 1
+   },
+   {
+      "result": "Geomorph III",
+      "weight": 1
+   },
+   {
+      "result": "Geomorph IV",
+      "weight": 1
+   },
+   {
+      "result": "Geomorph V",
+      "weight": 1
+   },
+   {
+      "result": "Geomorph VI",
+      "weight": 1
+   }
+],
+"table2":[
+   {
+      "result": "10ft x 10ft",
+      "weight": 1
+   },
+   {
+      "result": "20ft x 20ft",
+      "weight": 2
+   },
+   {
+      "result": "30ft x 30ft",
+      "weight": 3
+   },
+   {
+      "result": "40ft x 40ft",
+      "weight": 3
+   },
+   {
+      "result": "10ft x 20ft",
+      "weight": 1
+   },
+   {
+      "result": "20ft x 30ft",
+      "weight": 2
+   },
+   {
+      "result": "20ft x 40ft",
+      "weight": 2
+   },
+   {
+      "result": "30ft x 40ft",
+      "weight": 3
+   },
+   {
+      "result": "Special Room",
+      "weight" : 2
+   }
+],
+"table3":[
+   {
+      "result": "Cave",
+      "weight": 1
+   },
+   {
+      "result": "Circular w/ Pool",
+      "weight": 1.5
+   },
+   {
+      "result": "Circular w/ Well",
+      "weight": 0.25
+   },
+   {
+      "result": "Circular w/ Shaft",
+      "weight": 1
+   },
+   {
+      "result": "Circular",
+      "weight": 2.25
+   },
+   {
+      "result": "Hexagonal",
+      "weight": 2
+   },
+   {
+      "result": "Octagonal",
+      "weight": 2
+   },
+   {
+      "result": "Oval",
+      "weight": 2
+   },
+   {
+      "result": "Reroll or GMs choice",
+      "weight": 2
+   },
+   {
+      "result": "Trapezoidal",
+      "weight": 3
+   },
+   {
+      "result": "Triangular",
+      "weight": 3
+   }
+],
+"table4":[
+   {
+      "result": "500 sq ft",
+      "weight": 3
+   },
+   {
+      "result": "1500 sq ft",
+      "weight": 3
+   },
+   {
+      "result": "1500 sq ft",
+      "weight": 1
+   },
+   {
+      "result": "2500 sq ft",
+      "weight": 2
+   },
+   {
+      "result": "3250 sq ft",
+      "weight": 2
+   },
+   {
+      "result": "4000 sq ft",
+      "weight": 3
+   },
+   {
+      "result": "5000 sq ft",
+      "weight": 5
+   }
+],
+"table5a":[
+   {
+      "result": "1 Exits,
+      "weight": 4
+   },
+   {
+      "result": "2 Exits",
+      "weight": 3
+   },
+   {
+      "result": "3 Exits",
+      "weight": 2
+   },
+   {
+      "result": "Secret Exit",
+      "weight": 1.5
+   },
+   {
+      "result": "No Exits",
+      "weight": 4.5
+   },
+   {
+      "result": "1 Exit",
+      "weight": 1
+   },
+   {
+      "result": "2 Exits",
+      "weight": 1
+   },
+   {
+      "result": "3 Exits",
+      "weight": 1
+   },
+   {
+      "result": "4 Exits",
+      "weight": 1
+   },
+   {
+      "result": "Switch-up Exit",
+      "weight": 1
+   }
+],
+"table5b":[
+   {
+      "result": "2 Exits",
+      "weight": 4
+   },
+   {
+      "result": "3 Exits",
+      "weight": 3
+   },
+   {
+      "result": "4 Exits",
+      "weight": 2
+   },
+   {
+      "result": "Secret Exit",
+      "weight": 1.5
+   },
+   {
+      "result": "No Exits",
+      "weight": 4.5
+   },
+   {
+      "result": "1 Exit",
+      "weight": 1
+   },
+   {
+      "result": "2 Exits",
+      "weight": 1
+   },
+   {
+      "result": "3 Exits",
+      "weight": 1
+   },
+   {
+      "result": "4 Exits",
+      "weight": 1
+   },
+   {
+      "result": "Switch-up Exit",
+      "weight": 1
+   }
+],
+"table5c":[
+   {
+      "result": "2 Exits",
+      "weight": 4
+   },
+   {
+      "result": "3 Exits",
+      "weight": 3
+   },
+   {
+      "result": "4 Exits",
+      "weight": 2
+   },
+   {
+      "result": "1 Exit",
+      "weight": 6
+   },   
+   {
+      "result": "1 Exit",
+      "weight": 1
+   },
+   {
+      "result": "2 Exits",
+      "weight": 1
+   },
+   {
+      "result": "3 Exits",
+      "weight": 1
+   },
+   {
+      "result": "4 Exits",
+      "weight": 1
+   },
+   {
+      "result": "Switch-up Exit",
+      "weight": 1
+   }
+],
+"table6":[
+   {
+      "result": "Left Wall",
+      "weight": 4
+   },
+   {
+      "result": "Right Wall",
+      "weight": 4
+   },
+   {
+      "result": "Opposite Wall",
+      "weight": 8
+   },
+   {
+      "result": "Same Wall",
+      "weight": 4
+   }
+],
+"table7":[
+   {
+      "result": "Straight",
+      "weight" : 16
+   },
+   {
+      "result": "Left 45 degrees",
+      "weight": 2
+   },
+   {
+      "result": "Right 45 degrees",
+      "weight": 2
+   }
+],
+"table8":[
+   {
+      "result": "Empty",
+      "weight": 7
+   },
+   {
+      "result": "Monster",
+      "weight": 4
+   },
+   {
+      "result": "Monster and Treasure",
+      "weight": 6
+   },
+   {
+      "result": "Stairs",
+      "weight": 1
+   },
+   {
+      "result": "Trick or Trap",
+      "weight": 1
+   },
+   {
+      "result": "Treasure",
+      "weight": 1
+   }
+],
+"table9":[
+   {
+      "result": "Bags",
+      "weight" : 2
+   },
+   {
+      "result": "Sacks",
+      "weight" : 2
+   },
+   {
+      "result": "Coffers",
+      "weight" : 2
+   },
+   {
+      "result": "Chests",
+      "weight" : 2
+   },
+   {
+      "result": "Large Chests",
+      "weight" : 2
+   },
+   {
+      "result": "Pottery Jars",
+      "weight" : 2
+   },
+   {
+      "result": "Metal Urns",
+      "weight" : 2
+   },
+   {
+      "result": "Stone Containers",
+      "weight" : 2
+   },
+   {
+      "result": "Iron Trunks",
+      "weight" : 2
+   },
+   {
+      "result": "None, loose",
+      "weight" : 2
+   }
+],
+"table10":[
+   {
+      "result": "Blade scything across inside",
+      "weight": 2
+   },
+   {
+      "result": "Contact poison on container",
+      "weight": 2
+   },
+   {
+      "result": "Contact poison on treasure",
+      "weight": 2
+   },
+   {
+      "result": "Gas released by opening container",
+      "weight": 1
+   },
+   {
+      "result": "Explosive runes",
+      "weight": 1
+   },
+   {
+      "result": "Poisoned needles in lock",
+      "weight": 2
+   },
+   {
+      "result": "Poisoned needles in handles",
+      "weight": 1
+   },
+   {
+      "result": "Poisonous insect or reptile living inside container",
+      "weight": 1
+   },
+   {
+      "result": "Spears released from walls when container opened",
+      "weight": 1
+   },
+   {
+      "result": "Spring darts firing from front of container",
+      "weight": 1
+   },
+   {
+      "result": "Spring darts firing from top of container",
+      "weight": 1
+   },
+   {
+      "result": "Spring darts firing up from inside bottom of container",
+      "weight": 1
+   },
+   {
+      "result": "Stone block dropping in front of container",
+      "weight": 1
+   },
+   {
+      "result": "Symbol",
+      "weight": 1
+   },
+   {
+      "result": "Trapdoor opening in front of container",
+      "weight": 1
+   },
+   {
+      "result": "Trapdoor opening 6 ft in front of container",
+      "weight": 1
+   }
+],
+"table11":[
+   {
+      "result": "Behind a loose wall stone",
+      "weight": 2
+   },
+   {
+      "result": "Illusion to change appearance or hide item",
+      "weight": 2
+   },
+   {
+      "result": "Invisibility",
+      "weight": 3
+   },
+   {
+      "result": "In a nearby secret room",
+      "weight": 4
+   },
+   {
+      "result": "In an ordinary container in plain view",
+      "weight": 1
+   },
+   {
+      "result": "Inside or under trash or dung heap",
+      "weight": 1
+   },
+   {
+      "result": "Non-magically disguised",
+      "weight": 1
+   },
+   {
+      "result": "Secret space under container",
+      "weight": 1
+   },
+   {
+      "result": "Secret compartment in container",
+      "weight": 2
+   },
+   {
+      "result": "Under a loose flooring stone",
+      "weight": 3
+   }
+],
+"table12a":[
+   {
+      "result": "2d10x100 cp per level of the dungeon",
+      "weight": 5
+   },
+   {
+      "result": "2d10x100 sp per level of the dungeon",
+      "weight": 5
+   },
+   {
+      "result": "2d8x100 ep per level of the dungeon",
+      "weight": 3
+   },
+   {
+      "result": "1d4x100 gp per level of the dungeon",
+      "weight": 3
+   },
+   {
+      "result": "2d10x10 pp per level of the dungeon",
+      "weight": 2
+   },
+   {
+      "result": "1d3 gems per level of the dungeon",
+      "weight": 0.625
+   },
+   {
+      "result": "1 jewellery per level of the dungeon",
+      "weight": 0.375
+   },
+   {
+      "result": "1 magic item per level of the dungeon",
+      "weight": 0.625
+   },
+   {
+      "result": "No treasure",
+      "weight": 0.375
+   }
+],
+"table12b":[
+   {
+      "result": "2d10x100 cp per level of the dungeon",
+      "weight": 4
+   },
+   {
+      "result": "2d10x100 sp per level of the dungeon",
+      "weight": 5
+   },
+   {
+      "result": "2d8x100 ep per level of the dungeon",
+      "weight": 3
+   },
+   {
+      "result": "1d4x100 gp per level of the dungeon",
+      "weight": 3
+   },
+   {
+      "result": "2d10x10 pp per level of the dungeon",
+      "weight": 2
+   },
+   {
+      "result": "1d3 gems per level of the dungeon",
+      "weight": 0.625
+   },
+   {
+      "result": "1 jewellery per level of the dungeon",
+      "weight": 0.375
+   },
+   {
+      "result": "1 magic item per level of the dungeon",
+      "weight": 0.625
+   },
+   {
+      "result": "No treasure",
+      "weight": 0.375
+   },
+   {
+      "result": "1 magic item per level of the dungeon",
+      "weight": 1
+   }
+],
+"table13":[
+   {
+      "result": "Down 1 level",
+      "weight": 5
+   },
+   {
+      "result": "Down 2 levels",
+      "weight": 1
+   },
+   {
+      "result": "Down 3 levels",
+      "weight": 1
+   },
+   {
+      "result": "Up 1 level",
+      "weight": 2
+   },
+   {
+      "result": "Up to a dead end",
+      "weight": 1
+   },
+   {
+      "result": "Down to a dead end",
+      "weight": 1
+   },
+   {
+      "result": "Chimney up 1 level, passage continues",
+      "weight": 1
+   },
+   {
+      "result": "Chimney up 2 levels, passage continues",
+      "weight": 1
+   },
+   {
+      "result": "Chimney down 2 levels, passage continues",
+      "weight": 1
+   },
+   {
+      "result": "Trap door down 1 level, passage continues",
+      "weight": 2
+   },
+   {
+      "result": "Trap door down 2 levels, passage continues",
+      "weight": 1
+   },
+   {
+      "result": "Down 1 level into chamber",
+      "weight": 3
+   }
+],
+"table14a":[
+   {
+      "result":"Cave 40 x 60 ft", 
+      "weight":5
+   },
+   {
+      "result":"Cave 50 x 75 ft",
+      "weight":2
+   },
+   {
+      "result":"Double Cave: 30 x 30ft, 60 x 60 ft",
+      "weight":2
+   },
+   {
+      "result":"Double Cave: 30 x 50ft, 80 x 100 ft*",
+      "weight":2
+   },
+   {
+      "result":"Cavern 100 x 125 ft",
+      "weight": 3
+   },
+   {
+      "result": "Cavern 125 x 150 ft",
+      "weight": 2
+   },
+   {
+      "result":"Cavern 150 x 200 ft*",
+      "weight":2
+   },
+   {
+      "result":"Cavern 300 x 400 ft**",
+      "weight":2
+   }
+],
+"table15":[
+   {
+      "result":"No pool",
+      "weight":12
+   },
+   {
+      "result":"Pool",
+      "weight":2
+   },
+   {
+      "result":"Pool, monster",
+      "weight":2
+   },
+   {
+      "result":"Pool, monster, and treasure",
+      "weight":3
+   },
+   {
+      "result":"Magic pool",
+      "weight": 1
+   }
+],
+"table16":[
+   {
+      "result":"No lake",
+      "weight":12
+   },
+   {
+      "result":"Lake",
+      "weight":3
+   },
+   {
+      "result":"Lake, monster",
+      "weight":2
+   },
+   {
+      "result":"Lake, monster and treasure",
+      "weight":2
+   },
+   {
+      "result":"Enchanted Lake*",
+      "weight": 1
+   }
+],
+"table17":[
+   {
+      "result":"Roll 1d20. Pool turns gold pieces into platinum pieces (1-12) or lead (13-20): after doing this once, pool is non- magical.",
+      "weight":8
+   },
+   {
+      "result":"Characters in pool will either lose (1-50 on d%) or gain (51-100) 1 point from a randomly-determined attribute. Roll 1d6: 1=strength, 2=dexterity, 3=constitution, 4=intel- ligence, 5=wisdom, 6=charisma. One time only effect, each character checked separately for loss or gain and affected characteristic.",
+      "weight":7
+   },
+   {
+      "result":"Talking pool, will grant 1 wish to any characters of like alignment and damage all others (1d20 points). Wish must be used within 24 hours. Roll 1d20 for pool\u00e2\u20ac\u2122s alignment: 1-6 LG: 7-9 LE: 10-12 CG: 13-17 CE: 18-20 TN.",
+      "weight":2
+   },
+   {
+      "result":"Transporter pool. Roll 1d20: 1-7 back to surface: 8-12 elsewhere on level: 13-16 1 level down: 17-20 many miles away for wilderness or outdoor adventure. This one can be especially fi endish if not all characters in the party are standing in the pool.",
+      "weight":3
+   }
+],
+"table18":[
+   {
+      "result": "Chamber",
+      "weight": 3
+   },
+   {
+      "result": "Continue straight 50 ft",
+      "weight": 1
+   },
+   {
+      "result": "Dead End",
+      "weight": 1
+   },
+   {
+      "result": "Left Door, Passage Ahead",
+      "weight": 1
+   },
+   {
+      "result": "Right Door, Passage Ahead",
+      "weight": 1
+   },
+   {
+      "result": "Door Ahead",
+      "weight": 2
+   },
+   {
+      "result": "Side Passage",
+      "weight": 3
+   },
+   {
+      "result": "Stairs",
+      "weight": 1
+   },
+   {
+      "result": "Turn",
+      "weight": 3
+   },
+   {
+      "result": "Wandering Monster!",
+      "weight": 1
+   }
+],
+"table19":[
+   {
+      "result":"Left",
+      "weight": 4.2
+   },
+   {
+      "result":"Right",
+      "weight": 4.2 
+   },
+   {
+      "result":"Left and Right",
+      "weight": 3.6
+   },
+   {
+      "result":"Ahead",
+      "weight":8
+   }
+],
+"table20":[
+   {
+      "result": "Side door: parallel passage. Door straight ahead: room",
+      "weight": 3
+   },
+   {
+      "result": "Straight Passage",
+      "weight": 5
+   },
+   {
+      "result": "Passage 45 degrees left",
+      "weight": 1
+   },
+   {
+      "result": "Passage 45 degrees right",
+      "weight": 1
+   },
+   {
+      "result": "Room",
+      "weight": 8
+   },
+   {
+      "result": "Chamber",
+      "weight": 2
+   }
+],
+"table21":[
+   {
+      "result":"left 90 degrees",
+      "weight":4
+   },
+   {
+      "result":"right 90 degrees",
+      "weight":4
+   },
+   {
+      "result":"left 45 degrees (d6, 1-3 ahead, 4-6 behind)",
+      "weight": 1
+   },
+   {
+      "result":"right 45 degrees (d6, 1-3 ahead, 4-6 behind)",
+      "weight": 1
+   },
+   {
+      "result":"passage T's",
+      "weight":3
+   },
+   {
+      "result":"passage Y's",
+      "weight":2
+   },
+   {
+      "result":"four-way intersection",
+      "weight":4
+   },
+   {
+      "result":"five-way intersection*",
+      "weight": 1
+   }
+],
+"table22":[
+   {
+      "result":"5 ft",
+      "weight": 1
+   },
+   {
+      "result":"10 ft",
+      "weight":12
+   },
+   {
+      "result":"20 ft",
+      "weight":4
+   },
+   {
+      "result": "30ft",
+      "weight": 1
+   },
+   {
+      "result": "Special Passageway",
+      "weight": 2
+   }
+],
+"table23":[
+   {
+      "result":"40 ft wide*",
+      "weight":7
+   },
+   {
+      "result":"50 ft wide*",
+      "weight":5
+   },
+   {
+      "result":"stream**",
+      "weight":3
+   },
+   {
+      "result":"river***",
+      "weight":4
+   },
+   {
+      "result":"chasm****",
+      "weight": 1
+   }
+],
+"table24":[
+   {
+      "result":"left 90 degrees",
+      "weight":9
+   },
+   {
+      "result":"left 45 degrees (d6, 1-3 ahead, 4-6 behind)",
+      "weight": 1
+   },
+   {
+      "result":"right 90 degrees",
+      "weight":9
+   },
+   {
+      "result":"right 45 degrees (d6, 1-3 ahead, 4-6 behind)",
+      "weight": 1
+   }
+]
+}
