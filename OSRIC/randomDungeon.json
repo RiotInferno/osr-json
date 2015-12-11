@@ -191,7 +191,7 @@
       "weight": 2
    },
    {
-      "result": "Secret Exit",
+      "result": "1 Secret Exit",
       "weight": 1.5
    },
    {
@@ -215,7 +215,7 @@
       "weight": 1
    },
    {
-      "result": "Switch-up Exit",
+      "result": "1 Switch-up Exit",
       "weight": 1
    }
 ],
@@ -233,7 +233,7 @@
       "weight": 2
    },
    {
-      "result": "Secret Exit",
+      "result": "1 Secret Exit",
       "weight": 1.5
    },
    {
@@ -257,7 +257,7 @@
       "weight": 1
    },
    {
-      "result": "Switch-up Exit",
+      "result": "1 Switch-up Exit",
       "weight": 1
    }
 ],
@@ -295,7 +295,7 @@
       "weight": 1
    },
    {
-      "result": "Switch-up Exit",
+      "result": "1 Switch-up Exit",
       "weight": 1
    }
 ],
