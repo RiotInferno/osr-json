@@ -25,42 +25,80 @@
       "weight": 1
    }
 ],
-"table2":[
+"table2a":[
    {
-      "result": "10ft x 10ft",
+      "label": "10ft x 10ft",
       "weight": 1
    },
    {
-      "result": "20ft x 20ft",
+      "label": "20ft x 20ft",
       "weight": 2
    },
    {
-      "result": "30ft x 30ft",
+      "label": "30ft x 30ft",
       "weight": 3
    },
    {
-      "result": "40ft x 40ft",
+      "label": "40ft x 40ft",
       "weight": 3
    },
    {
-      "result": "10ft x 20ft",
+      "label": "10ft x 20ft",
       "weight": 1
    },
    {
-      "result": "20ft x 30ft",
+      "label": "20ft x 30ft",
       "weight": 2
    },
    {
-      "result": "20ft x 40ft",
+      "label": "20ft x 40ft",
       "weight": 2
    },
    {
-      "result": "30ft x 40ft",
+      "label": "30ft x 40ft",
       "weight": 3
    },
    {
-      "result": "Special Room",
+      "label": "Special Room",
       "weight" : 2
+   }
+],
+"table2b":[
+   {
+      "label": "10ft x 20ft",
+      "weight": 1
+   },
+   {
+      "label": "20ft x 20ft",
+      "weight": 2
+   },
+   {
+      "label": "30ft x 30ft",
+      "weight": 3
+   },
+   {
+      "label": "40ft x 40ft",
+      "weight": 3
+   },
+   {
+      "label": "20ft x 30ft",
+      "weight": 1
+   },
+   {
+      "label": "20ft x 40ft",
+      "weight": 2
+   },
+   {
+      "label": "40ft x 50ft",
+      "weight": 2
+   },
+   {
+      "label": "40ft x 60ft",
+      "weight": 3
+   },
+   {
+      "label": "Special Chamber",
+      "weight": 2
    }
 ],
 "table3":[
